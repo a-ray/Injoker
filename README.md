@@ -1,4 +1,2 @@
 # Injoker
-# Injoke Quas Wex Exort
-
-sdapdsodpda
+Injoker Quas Wex Exort Combination Skill with JAVA
